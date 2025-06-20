@@ -1,3 +1,15 @@
+## 👋 Hi, I'm Kamil Perzowski
+
+I'm the founder of [asapdevs.it](https://asapdevs.it) — a software house focused on building solutions that drive real results for e-commerce businesses.
+
+At asapdevs, we specialize in creating online stores that *actually sell*, along with custom tools tailored to the specific needs of our clients. Whether it's internal business software or public SaaS products, we always focus on delivering value.
+
+Some of our projects include:
+- 🛍️ [asapbase.com](https://asapbase.com) – an integration platform for online stores, a powerful alternative to Baselinker
+- 💬 [asapchat.io](https://asapchat.io) – a smart chat solution designed to improve customer communication
+
+We build software that supports business — from backend logistics to frontend conversion.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KPerzowski) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prz10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamil-perzowski) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10577340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kontakt@kamilperzowski.pl) 
